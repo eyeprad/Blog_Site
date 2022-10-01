@@ -1,0 +1,6 @@
+Group 15
+
+Members: Pratick Shantaiya (front-end/back-end/blogpostings/queries)
+	 Gino Vitug (Homepage/login/signup/queries)
+	 Brandon Heinz (database/query list)
+
